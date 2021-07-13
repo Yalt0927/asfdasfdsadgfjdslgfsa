@@ -12,7 +12,7 @@ import asyncio
 import datetime
 
 client = discord.Client()
-token = 'ODY0MDg2ODA0MzQ0MjA5NDA4.YOwVjA.iWF_717vsobBa0yoT4fT29fi0CQ'
+token = 'ODY0MDg2ODA0MzQ0MjA5NDA4.YOwVjA.VEq55DMVhPuDN7Pj3lpUuMkLrNA'
 gaming = 'Made By CHOCOBAR'
 channel = '864414932870365204'
 
